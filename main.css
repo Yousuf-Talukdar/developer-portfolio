@@ -53,3 +53,17 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#web-design{
+    border-left: 7px solid;
+   border-image:linear-gradient(blue,cyan);
+   border-image-slice: 1;
+}
+#full-stack-web{
+    border-left: 7px solid;
+    border-image:linear-gradient(rgb(250, 137, 181),rgb(121, 3, 72));
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+}
